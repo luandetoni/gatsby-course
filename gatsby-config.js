@@ -1,12 +1,13 @@
 module.exports = {
   siteMetadata: {
-    title: `My blog`,
+    title: `LDetoni`,
     position: `Web Developer`,
     description: `Blog desenvolvido por ldtn`,
     author: `@myblog`,
     siteUrl: `https://gatsbystarterdefaultsource.gatsbyjs.io/`,
   },
   plugins: [
+    `gatsby-plugin-styled-components`,
     `gatsby-plugin-react-helmet`,
     `gatsby-plugin-image`,
     {
