@@ -8,6 +8,8 @@ background: "#637a91"
 ---
 Mussum Ipsum, cacilds vidis litro abertis. Delegadis gente finis, bibendum egestas augue arcu ut est.Vehicula non. Ut sed ex eros. Vivamus sit amet nibh non tellus tristique interdum.Posuere libero varius. Nullam a nisl ut ante blandit hendrerit. Aenean sit amet nisi.Todo mundo vê os porris que eu tomo, mas ninguém vê os tombis que eu levo!
 
+![Volcano](assets/img/volcano.jpeg "Volcano")
+
 Diuretics paradis num copo é motivis de denguis.Si num tem leite então bota uma pinga aí cumpadi!Paisis, filhis, espiritis santis.Viva Forevis aptent taciti sociosqu ad litora torquent.
 
 Manduma pindureta quium dia nois paga.Paisis, filhis, espiritis santis.Detraxit consequat et quo num tendi nada.Casamentiss faiz malandris se pirulitá.
