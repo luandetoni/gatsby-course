@@ -5,8 +5,12 @@
   "version": "0.1.0",
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",
   "dependencies": {
+    "disqus-react": "^1.1.2",
+    "dotenv": "^16.0.0",
     "gatsby": "^4.9.2",
     "gatsby-image": "^3.11.0",
+    "gatsby-plugin-algolia": "^0.26.0",
+    "gatsby-plugin-algolia-search": "^0.5.7",
     "gatsby-plugin-gatsby-cloud": "^4.9.0",
     "gatsby-plugin-image": "^2.9.0",
     "gatsby-plugin-manifest": "^4.9.0",

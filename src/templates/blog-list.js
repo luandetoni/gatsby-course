@@ -68,9 +68,6 @@ query PostList($skip: Int!, $limit: Int!) {
             title
           }
           timeToRead
-          wordCount {
-            words
-          }
         }
       }
     }
