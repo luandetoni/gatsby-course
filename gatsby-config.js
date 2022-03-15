@@ -8,7 +8,7 @@ module.exports = {
     position: `Web Developer`,
     description: `Blog desenvolvido por ldtn`,
     author: `@myblog`,
-    siteUrl: `https://luandetoni.com.br/`,
+    siteUrl: `https://ldtn.netlify.app/`,
   },
   plugins: [
     `gatsby-plugin-transition-link`,
