@@ -12,7 +12,7 @@ Interagi no mé, cursus quis, vehicula ac nisi.Paisis, filhis, espiritis santis.
 
 Diuretics paradis num copo é motivis de denguis.Mé faiz elementum girarzis, nisi eros vermeio.Sapien in monti palavris qui num significa nadis i pareci latim.Suco de cevadiss deixa as pessoas mais interessantis.
 
-![code](assets/img/dayne-topkin-y5_mfllmwjk-unsplash.jpeg "coding")
+![Code](assets/img/dayne-topkin-y5_mfllmwjk-unsplash.jpeg)
 
 Praesent vel viverra nisi. Mauris aliquet nunc non turpis scelerisque, eget.Vehicula non. Ut sed ex eros. Vivamus sit amet nibh non tellus tristique interdum.Posuere libero varius. Nullam a nisl ut ante blandit hendrerit. Aenean sit amet nisi.Diuretics paradis num copo é motivis de denguis.
 
